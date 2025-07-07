@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+.venv/
+
+# VSCode or PyCharm settings (optional)
+.vscode/
+.idea/
+
+# macOS-specific
+.DS_Store
+
+# Logs
+*.log
+
+# Python cache
+*.pytest_cache/
+.pytest_cache/
+
+# Compiled Cython files
+*.so
+
+# Uvicorn reload artifacts
+*.pid
+
+# Local config files (optional)
+*.local
